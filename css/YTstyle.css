@@ -14,7 +14,7 @@
  */
 
 body{
-    
+    background-color: black;
 }
 .form-control::-moz-placeholder{
    color: #DDDDDD;
@@ -930,8 +930,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     .main .container{
         margin-bottom: 50px;
     }
-    #video_background{
+    /* #video_background{
         display: none;
-    }
+    } */
 
 }
